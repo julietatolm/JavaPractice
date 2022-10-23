@@ -12,9 +12,14 @@ public class Book implements Cloneable {
         this.author = author;
     }
 
+    public Book(String name) {
+        this.name = name;
+    }
+
     public void print() {
         System.out.println("Book title: " + name);
         System.out.println("Book author: " + author.getName());
+        System.out.println("Author's rating: " + author.getRating());
         System.out.println("---------------------");
     }
 
