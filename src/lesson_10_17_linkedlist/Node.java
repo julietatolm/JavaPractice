@@ -9,7 +9,6 @@ import lombok.Setter;
 public class Node {
     private Integer data;
     private Node next;
-    private Node prev;
 
     public Node(Integer data, Node next) {
         this.data = data;
