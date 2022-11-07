@@ -15,7 +15,6 @@ public interface MyDeque {
 
 
     default void grow() {
-        Integer[] elements;
     }
 //int calculateNewCapacity(int currentCapacity); int calculateAdditionalCapacity(int currentCapacity);
 //additional JUnit tests for this methods */
