@@ -1,0 +1,35 @@
+functional programming
+
+stream -
+stream accepts collection objects or in/out
+
+Intermediate Operators
+
+- filter -
+filter accepts Stream<T> with Predicate<! super T> (that returns boolean with method test) and returns new filtered
+Stream<T>
+
+
+
+- sorted
+accepts Stream<T>
+
+- orElse
+
+Terminal Operators
+
+-  reduce
+reduce accepts Stream<T> with BinaryOperator<T>, accumulate elements and returns Optional<T>
+reduce can accept first value "identity" - start value for accumulation
+Optional<T> - can return <T> or nothing
+Makes one <T> object from many
+
+- collect
+Uses Collector -> Methods Collector.toList, Collector.to
+
+
+------------
+- class optional ???
+has methods get(<T>), isPresent(boolean)
+Option is used if we are not sure about the result. Other way is to use method orElse in the end of Stream.
+or Optional.isPresent to get an object <T>

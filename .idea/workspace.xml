@@ -5,13 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02de3d5c-2dd3-4103-943d-c74e188a2edb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson_10_31_/DequePractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_10_31_/MyArrayDeque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_10_31_/MyDeque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_10_31_/QueuePractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_10_31_/StackPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_02_map/MapPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_10_31_/MyArrayDequeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_07_tree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_07_tree/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_07_tree/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_07_tree/TreePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_07_tree/comparators/MyBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_07_tree/comparators/SortByAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_07_tree/comparators/SortByAgeAndName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_11/MyArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_11/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_11/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_14/ArrayIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_16_comporator_lambda/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_16_comporator_lambda/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_16_comporator_lambda/PlayerSingletone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_16_comporator_lambda/PlayerSumator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_16_comporator_lambda/Sumator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_21_func_interfaces/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_23_stream/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_23_stream/PracticeFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_23_stream/PracticeLimitSkipDistinctPeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_23_stream/PracticeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_23_stream/PracticeSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_23_stream/theory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_25/AndThenBiFuncEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_25/AndThenEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_25/ComposeEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_25/FuntionEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_25/IdentityEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_25/SpliteratorPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_25/StreamEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_25/StreamsEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_28/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_28/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_28/studentsPractice/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_28/studentsPractice/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_28/studentsPractice/Test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson_10_17_linkedlist/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_10_17_linkedlist/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,48 +84,25 @@
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="lesson_11_07_tree" />
       <recent name="lesson_10_31_" />
       <recent name="class08_31" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DequePractice">
-    <configuration name="DequePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_10_31_.DequePractice" />
+  <component name="RunManager" selected="Application.lesson_11_28.studentsPractice.Test2">
+    <configuration name="PracticeLimitSkipDistinctPeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_11_23_stream.PracticeLimitSkipDistinctPeek" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_10_31_.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HashSetPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_10_19_setList.HashSetPractice" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson_10_19_setList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_11_02_map.MapPractice" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson_11_02_map.*" />
+          <option name="PATTERN" value="lesson_11_23_stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +111,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_10_17_linkedlist.Test" />
+      <option name="MAIN_CLASS_NAME" value="lesson_11_28.Test" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_10_17_linkedlist.*" />
+          <option name="PATTERN" value="lesson_11_28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +123,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson_10_31_.StackPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_10_31_.StackPractice" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_11_28.Test2" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_10_31_.*" />
+          <option name="PATTERN" value="lesson_11_28.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson_11_28.studentsPractice.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_11_28.studentsPractice.Test" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_11_28.studentsPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson_11_28.studentsPractice.Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_11_28.studentsPractice.Test2" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_11_28.studentsPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DequePractice" />
-        <item itemvalue="Application.MapPractice" />
-        <item itemvalue="Application.lesson_10_31_.StackPractice" />
+        <item itemvalue="Application.lesson_11_28.studentsPractice.Test2" />
+        <item itemvalue="Application.lesson_11_28.studentsPractice.Test" />
+        <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.HashSetPractice" />
+        <item itemvalue="Application.PracticeLimitSkipDistinctPeek" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +208,17 @@
       <workItem from="1667331087498" duration="3990000" />
       <workItem from="1667378382885" duration="3999000" />
       <workItem from="1667551877421" duration="12000" />
-      <workItem from="1667765358663" duration="11042000" />
+      <workItem from="1667765358663" duration="19213000" />
+      <workItem from="1668156174978" duration="8989000" />
+      <workItem from="1668416508286" duration="1850000" />
+      <workItem from="1668591662530" duration="887000" />
+      <workItem from="1669020080901" duration="7866000" />
+      <workItem from="1669327760854" duration="4278000" />
+      <workItem from="1669369000031" duration="4298000" />
+      <workItem from="1669624233653" duration="10218000" />
+      <workItem from="1669671708923" duration="3718000" />
+      <workItem from="1669727197109" duration="16905000" />
+      <workItem from="1669762743424" duration="7485000" />
     </task>
     <task id="LOCAL-00001" summary="update homework">
       <created>1664637930789</created>
@@ -196,7 +241,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666914932950</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update homework">
+      <created>1667783056145</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667783056145</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update homework">
+      <created>1667783071009</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667783071009</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
