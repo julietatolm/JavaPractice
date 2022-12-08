@@ -29,17 +29,20 @@ public class Results {
 
     private static void getPlayersToHigherLeague(Game game) {
         System.out.println("Players that were moved to a higher league: ");
-        System.out.printf("%25s %5s %5s %5s %10s %5s %40s %n", name, fourDots, age, fourDots, points, fourDots,
-                league);
+        printTableHeader();
         game.getPlayers().getPlayersList()
                 .stream().filter(player -> player.getOriginalLeague().getLevel() < player.getLeague().getLevel())
                 .forEach(Results::printPlayer);
     }
 
-    private static void getPlayersToLowerLeague(Game game) {
-        System.out.println("Players that were moved to a lower league: ");
+    private static void printTableHeader() {
         System.out.printf("%25s %5s %5s %5s %10s %5s %40s %n", name, fourDots, age, fourDots, points, fourDots,
                 league);
+    }
+
+    private static void getPlayersToLowerLeague(Game game) {
+        System.out.println("Players that were moved to a lower league: ");
+        printTableHeader();
 
         game.getPlayers().getPlayersList()
                 .stream().filter(player -> player.getOriginalLeague().getLevel() > player.getLeague().getLevel())
@@ -48,8 +51,8 @@ public class Results {
 
     private static void getBestPlayers(Game game) {
         System.out.println("5 Best players: ");
-        System.out.printf("%25s %5s %5s %5s %10s %5s %40s %n", name, fourDots, age, fourDots, points, fourDots,
-                league);
+        printTableHeader();
+
         game.getPlayers().getPlayersList()
                 .stream().sorted((pl1, pl2) -> - pl1.getPoints() + pl2.getPoints())
                 .limit(5)
