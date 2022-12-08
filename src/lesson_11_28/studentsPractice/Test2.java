@@ -1,8 +1,6 @@
 package lesson_11_28.studentsPractice;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.stream.Collectors;
 
 //First level: Using groupingBy in Collectors method:
@@ -56,14 +54,17 @@ public class Test2 {
 
     static void processStudentsByBooks(List<Student> students) {
         ////How many users red the same book
-        Map one = students.stream().map(x -> x.getBooks())
-                .flatMap(x -> x.stream())
+        Map<String, Integer> one = students.stream().map(Student::getBooks)
+                .flatMap(Collection::stream)
                 .collect(Collectors.toMap(
                         s1 -> s1,
                         s1 -> 1,
                         Integer::sum
                 ));
 
-        System.out.println(one);
+
+//        System.out.println(two);
+
+//        System.out.println(one);
     }
 }

@@ -5,45 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02de3d5c-2dd3-4103-943d-c74e188a2edb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson_10_31_/MyArrayDequeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_07_tree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_07_tree/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_07_tree/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_07_tree/TreePractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_07_tree/comparators/MyBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_07_tree/comparators/SortByAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_07_tree/comparators/SortByAgeAndName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_11/MyArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_11/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_11/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_14/ArrayIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_16_comporator_lambda/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_16_comporator_lambda/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_16_comporator_lambda/PlayerSingletone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_16_comporator_lambda/PlayerSumator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_16_comporator_lambda/Sumator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_21_func_interfaces/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_23_stream/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_23_stream/PracticeFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_23_stream/PracticeLimitSkipDistinctPeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_23_stream/PracticeMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_23_stream/PracticeSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_23_stream/theory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_25/AndThenBiFuncEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_25/AndThenEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_25/ComposeEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_25/FuntionEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_25/IdentityEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_25/SpliteratorPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_25/StreamEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_25/StreamsEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_28/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_28/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_28/studentsPractice/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_28/studentsPractice/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_28/studentsPractice/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_30_input_output/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_11_30_input_output/poem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/Adult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/Participant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/Pupil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/CONSTANT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/League.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/Players.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/hw.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/lesson_12_02_tasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_12_05_i_o/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_12_05_i_o/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_12_05_i_o/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_12_07_streams/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson_10_17_linkedlist/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_10_17_linkedlist/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson_11_25/StreamEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_11_25/StreamEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson_11_28/studentsPractice/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_11_28/studentsPractice/Test2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +39,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -71,24 +57,27 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.32599118",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="lesson_11_07_tree" />
@@ -96,13 +85,13 @@
       <recent name="class08_31" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lesson_11_28.studentsPractice.Test2">
-    <configuration name="PracticeLimitSkipDistinctPeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_11_23_stream.PracticeLimitSkipDistinctPeek" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_12_02_tasks.game.game_hw.Game" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_11_23_stream.*" />
+          <option name="PATTERN" value="lesson_12_02_tasks.game.game_hw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +100,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_11_28.Test" />
+      <option name="MAIN_CLASS_NAME" value="lesson_12_02_tasks.game.game_hw.Test" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_11_28.*" />
+          <option name="PATTERN" value="lesson_12_02_tasks.game.game_hw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_11_28.Test2" />
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_12_05_i_o.Test3" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_11_28.*" />
+          <option name="PATTERN" value="lesson_12_05_i_o.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson_11_28.studentsPractice.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_11_28.studentsPractice.Test" />
+    <configuration name="lesson_12_02_tasks.game.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_12_02_tasks.game.Test" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_11_28.studentsPractice.*" />
+          <option name="PATTERN" value="lesson_12_02_tasks.game.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson_11_28.studentsPractice.Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_11_28.studentsPractice.Test2" />
+    <configuration name="lesson_12_07_streams.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_12_07_streams.Test" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_11_28.studentsPractice.*" />
+          <option name="PATTERN" value="lesson_12_07_streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lesson_11_28.studentsPractice.Test2" />
-        <item itemvalue="Application.lesson_11_28.studentsPractice.Test" />
-        <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.PracticeLimitSkipDistinctPeek" />
+        <item itemvalue="Application.Game" />
+        <item itemvalue="Application.lesson_12_02_tasks.game.Test" />
+        <item itemvalue="Application.lesson_12_07_streams.Test" />
+        <item itemvalue="Application.Test3" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +207,11 @@
       <workItem from="1669624233653" duration="10218000" />
       <workItem from="1669671708923" duration="3718000" />
       <workItem from="1669727197109" duration="16905000" />
-      <workItem from="1669762743424" duration="7485000" />
+      <workItem from="1669762743424" duration="8330000" />
+      <workItem from="1669799786289" duration="8960000" />
+      <workItem from="1669822400741" duration="2315000" />
+      <workItem from="1670232780718" duration="6023000" />
+      <workItem from="1670410225183" duration="32133000" />
     </task>
     <task id="LOCAL-00001" summary="update homework">
       <created>1664637930789</created>
@@ -255,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667783071009</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update homework">
+      <created>1669772759869</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669772759870</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,6 +287,16 @@
           <url>file://$PROJECT_DIR$/src/lesson_10_31_/MyArrayDeque.java</url>
           <line>148</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson_12_07_streams/Test.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/Game.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
