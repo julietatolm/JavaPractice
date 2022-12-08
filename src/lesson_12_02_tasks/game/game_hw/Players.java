@@ -1,15 +1,14 @@
 package lesson_12_02_tasks.game.game_hw;
 
-
-import lombok.Getter;
+import lesson_12_02_tasks.game.game_hw.game.CONSTANT;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class Players {
-    private List<Player> playersList;
+    private final List<Player> playersList;
 
-    public Players() {
+    private Players() {
         this.playersList = new ArrayList<>();
     }
 
@@ -17,18 +16,28 @@ public class Players {
         return playersList;
     }
 
-    public void generatePlayers() {
+    public static Players generatePlayers() {
+        Players players = new Players();
+        //for each league generate N number of random players and add them to the List of players
         for(League league : League.values()) {
             int playersPerLeagueQuantity = CONSTANT.PLAYERS_PER_LEAGUE;
             while (playersPerLeagueQuantity != 0) {
-                playersList.add(new Player(league));
+                players.playersList.add(new Player(league));
                 playersPerLeagueQuantity--;
             }
         }
-        System.out.println(playersList.size() + " players generated"  + ": " + CONSTANT.PLAYERS_PER_LEAGUE + " " +
+        System.out.println(players.playersList.size() + " players generated"  + " :: " + CONSTANT.PLAYERS_PER_LEAGUE +
+                " " +
                 "players per league");
         System.out.println("====================================");
+        return players;
     }
+
+    public void setGamesCounterToZero() {
+        this.playersList
+                .forEach(Player::setGamesCounterToZero);
+    }
+
 
 
 }

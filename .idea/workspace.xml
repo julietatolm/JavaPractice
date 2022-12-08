@@ -4,31 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02de3d5c-2dd3-4103-943d-c74e188a2edb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_30_input_output/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_11_30_input_output/poem.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/Adult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/Participant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/Pupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/CONSTANT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/League.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/Players.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/hw.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/lesson_12_02_tasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_12_05_i_o/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_12_05_i_o/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_12_05_i_o/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_12_07_streams/Test.java" afterDir="false" />
+    <list default="true" id="02de3d5c-2dd3-4103-943d-c74e188a2edb" name="Changes" comment="update homework game">
+      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/Results.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/game/GameMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson_11_25/StreamEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_11_25/StreamEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson_11_28/studentsPractice/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_11_28/studentsPractice/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/CONSTANT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/game/CONSTANT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/game/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/League.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/League.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/Players.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/Players.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -57,29 +43,30 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Global Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.32599118",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.32599118&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="lesson_12_02_tasks.game.game_hw" />
       <recent name="lesson_11_07_tree" />
       <recent name="lesson_10_31_" />
       <recent name="class08_31" />
@@ -87,11 +74,11 @@
   </component>
   <component name="RunManager" selected="Application.Test">
     <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_12_02_tasks.game.game_hw.Game" />
+      <option name="MAIN_CLASS_NAME" value="lesson_12_02_tasks.game.game_hw.game.Game" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_12_02_tasks.game.game_hw.*" />
+          <option name="PATTERN" value="lesson_12_02_tasks.game.game_hw.game.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,7 +91,7 @@
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_12_02_tasks.game.game_hw.*" />
+          <option name="PATTERN" value="lesson_12_02_tasks.game.game_hw.game.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,7 +198,8 @@
       <workItem from="1669799786289" duration="8960000" />
       <workItem from="1669822400741" duration="2315000" />
       <workItem from="1670232780718" duration="6023000" />
-      <workItem from="1670410225183" duration="32133000" />
+      <workItem from="1670410225183" duration="32570000" />
+      <workItem from="1670519146711" duration="9376000" />
     </task>
     <task id="LOCAL-00001" summary="update homework">
       <created>1664637930789</created>
@@ -255,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669772759870</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update homework game">
+      <created>1670460073070</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670460073074</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,7 +269,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="update homework" />
+    <MESSAGE value="update homework game" />
+    <option name="LAST_COMMIT_MESSAGE" value="update homework game" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -292,11 +288,6 @@
           <url>file://$PROJECT_DIR$/src/lesson_12_07_streams/Test.java</url>
           <line>22</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/lesson_12_02_tasks/game/game_hw/Game.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
